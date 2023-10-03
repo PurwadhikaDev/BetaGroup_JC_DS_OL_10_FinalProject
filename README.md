@@ -1,6 +1,6 @@
 # BetaGroup_JC_DS_OL_10_FinalProject
+**Model Deployment Streamlit** -> [link]( https://deployment-final-project-b5npck77wodulypkulx8lw.streamlit.app/)
 
-- **Model Deployment Streamlit** -> [link]( https://deployment-final-project-b5npck77wodulypkulx8lw.streamlit.app/)
 -	Eldwin Surya Kusuma Wardojo
 -	Tan William Reinaldo
 -	Raden Fadhlan Auffar
