@@ -1,6 +1,5 @@
 # BetaGroup_JC_DS_OL_10_FinalProject
 
-# Final Project Bank Telemarketing Campaign
 - **Model Deployment Streamlit** -> [link]( https://deployment-final-project-b5npck77wodulypkulx8lw.streamlit.app/)
 -	Eldwin Surya Kusuma Wardojo
 -	Tan William Reinaldo
