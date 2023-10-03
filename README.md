@@ -29,16 +29,12 @@ Berikut beberapa temuan hasil EDA:
 2.	Data preparation for analysis
 
 # Methodology (data analysis & modelling)
-1.	Data Analysis
-Salah satu insight yang didapat adalah untuk mencari new customer bisa fokus kepada nasabah yang masuk ke kategori elderly.
-2.	Modeling
-Dilakukan beberapa benchmark model. Model terpilh adalah LGBM + ROS + Tuning karena lebih menguntungkan bank serta memiliki metrik evaluasi tertinggi. 
+1.	Data Analysis -> Salah satu insight yang didapat adalah untuk mencari new customer bisa fokus kepada nasabah yang masuk ke kategori elderly.
+2.	Modeling ->  Dilakukan beberapa benchmark model. Model terpilh adalah LGBM + ROS + Tuning karena lebih menguntungkan bank serta memiliki metrik evaluasi tertinggi. 
 
 # Kesimpulan & Rekomendasi 
--	Bisnis
-Bank menggunakan model yang telah dibuat sehingga dapat meminimalisir biaya kontak, serta dapat mengevaluasi proses dokumentasi data.
--	Model
-Mencoba memodelkan kembali berdasarkan hasil temuan feature importance serta menganalisis hari error model.
+-	Bisnis -> Bank menggunakan model yang telah dibuat sehingga dapat meminimalisir biaya kontak, serta dapat mengevaluasi proses dokumentasi data.
+-	Model -> Mencoba memodelkan kembali berdasarkan hasil temuan feature importance serta menganalisis hari error model.
 
 # Deployment
 Menyimpan model terpilih untuk digunakan dalam streamlit
