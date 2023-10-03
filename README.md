@@ -5,7 +5,7 @@
 -	Eldwin Surya Kusuma Wardojo
 -	Tan William Reinaldo
 -	Raden Fadhlan Auffar
--	
+  
 # Business Understanding & Problem Statement
 Bank memiliki 2 jenis income, yaitu fee based income dan spread based income. Bank mengeluarkan produk investasi khusunya deposito untuk menambahkan dana kelolaan yang dapat disalurkan sehingga mendapatkan keuntungan. Telemarketing merupakan salah satu cara yang dapat dilakukan untuk menawarkan produk deposito.
 1.	Context
